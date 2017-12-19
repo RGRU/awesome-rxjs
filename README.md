@@ -66,6 +66,7 @@ https://github.com/ReactiveX/RxJS/issues/1121#issuecomment-169568428
  - [garbles/yolk](https://github.com/garbles/yolk) - :egg: A library for building asynchronous user interfaces.
  - [bcoop713/routerx](https://github.com/bcoop713/routerx) - A Router for RxJS and Cycle.js applcations
  - [ngrx/store](https://github.com/ngrx/store) - RxJS powered state management inspired by Redux for Angular2
+ - [ScreenViewer](https://github.com/RGRU/ScreenViewer) - Module for definition screen type by RxJS
 
 
 ## Talks
